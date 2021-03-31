@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ahmedsoliman360
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 ahmedsoliman360/ahmedsoliman360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning web development and object oriented programming.
 - 🥅 2021 Goals: Improve my ability to contribute to projects
 - ⚡ Fun fact: I love to swim and play basketball
+- 📫 How to reach me ...
 
 
 <br />
