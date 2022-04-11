@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ## I'm a computer science student at the University of Manchester!!
 
 - 🌱 I’m currently learning web development and object oriented programming.
-- 🥅 2021 Goals: Improve my ability to contribute to projects
+- 🥅 2022 Goals: Improve my ability to contribute to projects
 - ⚡ Fun fact: I love to swim and play basketball
 - 📫 How to reach me ...
 
